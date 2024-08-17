@@ -27,6 +27,6 @@ Decorator<br>
 AI Task<br>
 AI Service<br>
 
-<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
+<h4>This project is designed for teaching game application development with Unreal Engine, by demonstration a free to use functional prototype.<br>The project template is optimized to reduce size of zip-file.<br> </h4>
 
 Enjoy .. : ] ,, 

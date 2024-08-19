@@ -13,8 +13,9 @@ Home: www.kataxwork.com<br>
 
 This application:
 
->AI prototype of crowd simulation
->using engine resources 
+>AI prototype of crowd simulation<br>
+> Using 3 different behaviours <br> 
+> Replicate animation of crowd in network<br> 
 
 Using:
 
